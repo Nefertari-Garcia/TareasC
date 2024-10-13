@@ -8,6 +8,6 @@ int main(){
     scanf("%f",&cm);
     metros = cm/100;
     printf("La conversión en metros es: %f",metros);
-    system("pause");
+    //system("pause");
     return 0;
 }
