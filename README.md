@@ -1,2 +1,3 @@
 # TareasC
-## Trabjos realizados en el primer semestre de la carrera 
+Todos los ejercicios en C realizados en la carrera 
+All the exercises in C done in the university course
