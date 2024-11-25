@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
-
 
 int Acum(int vector[],int x)
 {
@@ -12,7 +10,7 @@ int Acum(int vector[],int x)
     return(suma);  
 }
 
-int Suma(int x,int y=3){
+int Suma(int x,int y){
     return (x+y);
 }
 
